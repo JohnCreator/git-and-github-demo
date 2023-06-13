@@ -1,0 +1,1 @@
+export let noun = "ordinary";
