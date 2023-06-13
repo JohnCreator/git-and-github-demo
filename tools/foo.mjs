@@ -1,1 +1,1 @@
-export let qualifier = "particularly";
+export let qualifier = "slightly";
