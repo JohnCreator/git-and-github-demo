@@ -1,1 +1,1 @@
-export let noun = "better";
+export let noun = "idea";
